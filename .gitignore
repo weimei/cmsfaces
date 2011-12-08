@@ -2,3 +2,5 @@
 /CMSFacesModel/target/
 /doc/doxygen/api
 .DS_Store
+/CMSFacesCore/target/
+/CMSFacesWeb/target/
